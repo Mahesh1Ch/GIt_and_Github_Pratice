@@ -1,0 +1,19 @@
+commends:
+
+git config --global user.name "Mahesh1Ch" ===> used to comment to the specified user.
+git config --global user.email "maheswarreddychagam555@gmail.com"  ====> used to commect to the specified email.
+git init ===> git init command created a new git repository(repo).
+git status ===> git status command displays the state of the working directory and the staging area.
+git add ===> git add command adds a changes in the working directory to the staging area.
+
+git push -u origin branch_name ===> git push command is used to upload the local repository content to a remote repository.
+			-u =======> u flag is used to creates a tracking references for the every branch thay you push to the
+						 remote repository(tracking references to the branch)
+git remote add origin https:/repo url ====> git remote add origin command creates a new connection record to the
+						 remote repository.
+git checkout -b ==========> git checkout -b branch_name command is used to switch between the branchs or create a new branch.
+
+git pull ===========> git pull command is used for retrive and download content from a remote repository and update the local
+			 repository as soon as it has been downloaded.
+
+git clone url ==========> git clone copies the existing the Git repositoy.
