@@ -28,3 +28,5 @@ git branch ==========> used to display present working branch.
 git branch -d branch_name =======> used to delete the branch from local repository.
 git push -d origin branch_name =====> used to delete the branch from remote repository.
 
+git marge branch_name======> It is used to marge the specified branch files to the present working branch(master).
+
