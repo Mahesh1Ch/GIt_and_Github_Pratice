@@ -15,5 +15,16 @@ git checkout -b ==========> git checkout -b branch_name command is used to switc
 
 git pull ===========> git pull command is used for retrive and download content from a remote repository and update the local
 			 repository as soon as it has been downloaded.
+		git pull is the combonation of two request one is $git fetch and $ git merge 
+git fetch ====> git fetch command download the content from the remote repository.
+git merge =====> git merge command combines the sequenties of the commits into a single branch.
+
 
 git clone url ==========> git clone copies the existing the Git repositoy.
+=======
+git clone ==========> git clone copies the existing the Git repository.
+
+git branch ==========> used to display present working branch.
+git branch -d branch_name =======> used to delete the branch from local repository.
+git push -d origin branch_name =====> used to delete the branch from remote repository.
+
