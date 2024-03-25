@@ -12,7 +12,8 @@ git push -u origin branch_name ===> git push command is used to upload the local
 git remote add origin https:/repo url ====> git remote add origin command creates a new connection record to the
 						 remote repository.
 git checkout -b ==========> git checkout -b branch_name command is used to switch between the branchs or create a new branch.
-
+				-b flag is used to create a new branch is branch is not present.		
+		
 git pull ===========> git pull command is used for retrive and download content from a remote repository and update the local
 			 repository as soon as it has been downloaded.
 		git pull is the combonation of two request one is $git fetch and $ git merge 
